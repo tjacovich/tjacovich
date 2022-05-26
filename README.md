@@ -1,4 +1,6 @@
-### Hi there 👋
+# Back-Office Developer @SAO/NASA ADS
+# Stellar Undertaker
+# Maker of Things
 
 <!--
 **tjacovich/tjacovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
