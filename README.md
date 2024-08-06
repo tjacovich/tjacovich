@@ -1,4 +1,4 @@
-### Backoffice Lead @SAO/NASA ADS
+### Backoffice Lead @SAO ADS
 ### Stellar Undertaker
 ### Maker of Things
 
